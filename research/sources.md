@@ -42,6 +42,8 @@ Collected on:
 
 11 June 2026
 
+
+
 ### 2. Lara Acosta
 
 LinkedIn:  
