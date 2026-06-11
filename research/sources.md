@@ -55,17 +55,11 @@ YouTube:
 Focus:
 
 - Personal branding
-
 - LinkedIn growth
-
 - Storytelling
-
 - Audience building
-
 - Content systems
-
 - Founder branding
-
 - Business growth
 
 Reason selected:
@@ -75,23 +69,51 @@ One of the fastest-growing LinkedIn creators and educators focused on personal b
 Collected:
 
 - LinkedIn profile
-
 - About section
-
 - 2 recent LinkedIn posts
-
 - 1 YouTube video research
-
 - Personal research observations
 
 Collected on:
 
 11 June 2026
 
-### 3. Dave Gerhardt
 
-- Focus: B2B SaaS marketing
-- Platform: LinkedIn
+
+### 3. Jasmin Alic
+
+LinkedIn:
+
+[https://www.linkedin.com/in/alicjasmin/](https://www.linkedin.com/in/alicjasmin/)
+
+Youtube:
+
+[https://www.youtube.com/@thejasminalic](https://www.youtube.com/@thejasminalic)
+
+Focus:
+
+- LinkedIn growth
+- Personal branding
+- Psychology
+- Sales
+- Community building
+
+Reason selected:
+
+One of the strongest practitioner-led examples of psychology-driven LinkedIn growth and authority positioning through storytelling, community and relationship-first marketing.
+
+Collected:
+
+- LinkedIn profile
+- About section
+- 2 recent posts
+- 1 conference presentation / YouTube talk
+
+Collected on:
+
+11 June 2026
+
+
 
 ### 4. Amanda Natividad
 
