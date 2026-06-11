@@ -42,8 +42,6 @@ Collected on:
 
 11 June 2026
 
-
-
 ### 2. Lara Acosta
 
 LinkedIn:  
@@ -80,8 +78,6 @@ Collected on:
 
 11 June 2026
 
-
-
 ### 3. Jasmin Alic
 
 LinkedIn:
@@ -115,12 +111,45 @@ Collected on:
 
 11 June 2026
 
-
-
 ### 4. Amanda Natividad
 
-- Focus: Zero-click content
-- Platform: LinkedIn
+LinkedIn:
+
+[https://www.linkedin.com/in/amandanat/](https://www.linkedin.com/in/amandanat/)
+
+Youtube:
+
+[https://www.youtube.com/@amandanat_](https://www.youtube.com/@amandanat_)
+
+Focus:
+
+- Zero-click marketing
+
+- AI visibility
+
+- B2B SaaS marketing
+
+- Content strategy
+
+- Thought leadership
+
+Reason selected:
+
+Leading voice in zero-click marketing and AI visibility strategy, combining original research, practical frameworks, and real-world B2B SaaS marketing experience through SparkToro and Zero Click Marketing.
+
+Collected:
+
+- LinkedIn profile
+
+- About section
+
+- 2 recent LinkedIn posts
+
+- 1 Zero Click Marketing podcast episode
+
+Collected on:
+
+11 June 2026
 
 ### 5. Ross Simmonds
 
