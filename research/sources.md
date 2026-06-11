@@ -124,13 +124,9 @@ Youtube:
 Focus:
 
 - Zero-click marketing
-
 - AI visibility
-
 - B2B SaaS marketing
-
 - Content strategy
-
 - Thought leadership
 
 Reason selected:
@@ -140,21 +136,49 @@ Leading voice in zero-click marketing and AI visibility strategy, combining orig
 Collected:
 
 - LinkedIn profile
-
 - About section
-
 - 2 recent LinkedIn posts
-
 - 1 Zero Click Marketing podcast episode
 
 Collected on:
 
 11 June 2026
 
-### 5. Ross Simmonds
+### 5. Dave Gerhardt
 
-- Focus: Content distribution
-- Platform: LinkedIn
+LinkedIn:
+
+[https://www.linkedin.com/in/davegerhardt/](https://www.linkedin.com/in/davegerhardt/)
+
+Youtube:
+
+[https://www.youtube.com/@heydavegerhardt](https://www.youtube.com/@heydavegerhardt)
+
+Focus:
+
+- Founder branding
+- B2B marketing
+- Community building
+- Storytelling
+- Brand strategy
+- Content marketing
+- AI and modern marketing
+- Messaging & positioning
+
+Reason selected:
+
+One of the leading voices in B2B marketing and founder branding, known for building Exit Five into a top marketing community and for consistently sharing practical, experience-driven insights on storytelling, positioning, content strategy, and brand-led growth.
+
+Collected:
+
+- LinkedIn profile
+- About section
+- 2 recent LinkedIn posts
+- 1 podcast / YouTube interview transcript
+
+Collected on:
+
+11 June 2026
 
 ### 6. April Dunford
 
