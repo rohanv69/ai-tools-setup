@@ -23,11 +23,8 @@ The Saturday Solopreneur
 Focus:
 
 - Solopreneurship
-
 - One-person business
-
 - LinkedIn growth
-
 - Knowledge monetization
 
 Reason selected:
@@ -37,11 +34,8 @@ One of the strongest practitioner-led examples of founder branding and LinkedIn-
 Collected:
 
 - LinkedIn profile
-
 - About section
-
 - 2 recent posts
-
 - 1 podcast interview
 
 Collected on:
@@ -50,8 +44,49 @@ Collected on:
 
 ### 2. Lara Acosta
 
-- Focus: Personal branding & audience growth
-- Platform: LinkedIn
+LinkedIn:  
+
+[https://www.linkedin.com/in/laraacostar/](https://www.linkedin.com/in/laraacostar/)
+
+YouTube:  
+
+[https://www.youtube.com/@LaraAcosta](https://www.youtube.com/@LaraAcosta)
+
+Focus:
+
+- Personal branding
+
+- LinkedIn growth
+
+- Storytelling
+
+- Audience building
+
+- Content systems
+
+- Founder branding
+
+- Business growth
+
+Reason selected:
+
+One of the fastest-growing LinkedIn creators and educators focused on personal branding and organic audience growth. Combines storytelling, educational frameworks, AI tooling, and content systems with publicly documented business results and large-scale audience growth.
+
+Collected:
+
+- LinkedIn profile
+
+- About section
+
+- 2 recent LinkedIn posts
+
+- 1 YouTube video research
+
+- Personal research observations
+
+Collected on:
+
+11 June 2026
 
 ### 3. Dave Gerhardt
 

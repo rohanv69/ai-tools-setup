@@ -1,5 +1,9 @@
 # Justin Welsh
 
+Platform:
+
+[https://www.linkedin.com/in/justinwelsh/](https://www.linkedin.com/in/justinwelsh/)
+
 ## Headline
 
 Writer & Entrepreneur | One weekly essay for 200,000+ ambitious people living and working on their own terms.
