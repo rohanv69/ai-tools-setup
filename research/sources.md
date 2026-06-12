@@ -333,13 +333,40 @@ Collected on:
 
 12 June 2026
 
-### 9. Jason Lemkin
-
-- Focus: SaaS growth
-- Platform: LinkedIn
-
 ### 10. Kyle Poyar
 
-- Focus: Product-led growth
-- Platform: LinkedIn
+LinkedIn:
 
+[https://www.linkedin.com/in/kyle-poyar/](https://www.linkedin.com/in/kyle-poyar/)
+
+Website:
+
+[https://www.growthunhinged.com/](https://www.growthunhinged.com/)
+
+Focus:
+
+- SaaS growth
+- GTM strategy
+- Pricing & packaging
+- AI monetization
+- Product-led growth (PLG)
+- SaaS benchmarks
+- Revenue expansion
+- Monetization strategy
+- Growth research
+- Data-driven decision making
+
+Reason selected:
+
+One of the strongest voices on SaaS pricing, monetization, and GTM strategy, combining deep operating experience with original research and benchmark-driven insights. Kyle consistently publishes practical frameworks backed by proprietary data, making him an excellent reference for modern B2B growth strategy, AI monetization, pricing evolution, and product-led growth.
+
+Collected:
+
+- LinkedIn profile
+- About section
+- 2 recent LinkedIn posts
+- 1 conference keynote / YouTube presentation
+
+Collected on:
+
+12 June 2026
