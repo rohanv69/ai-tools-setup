@@ -182,8 +182,43 @@ Collected on:
 
 ### 6. April Dunford
 
-- Focus: Positioning
-- Platform: LinkedIn
+LinkedIn:
+
+[https://www.linkedin.com/in/aprildunford/](https://www.linkedin.com/in/aprildunford/)
+
+Youtube:
+
+[https://www.youtube.com/@positioningshow](https://www.youtube.com/@positioningshow)
+
+Focus:
+
+Positioning
+
+Product positioning
+
+Messaging
+
+Sales narrative
+
+B2B technology marketing
+
+Reason selected:
+
+World-leading authority on B2B product positioning, known for developing practical frameworks around positioning, messaging, differentiation, and sales narratives through decades of consulting and her best-selling books Obviously Awesome and Sales Pitch.
+
+Collected:
+
+LinkedIn profile
+
+About section
+
+2 recent LinkedIn posts
+
+1 Positioning Show episode
+
+Collected on:
+
+11 June 2026
 
 ### 7. Peep Laja
 
