@@ -192,15 +192,11 @@ Youtube:
 
 Focus:
 
-Positioning
-
-Product positioning
-
-Messaging
-
-Sales narrative
-
-B2B technology marketing
+- Positioning
+- Product positioning
+- Messaging
+- Sales narrative
+- B2B technology marketing
 
 Reason selected:
 
@@ -208,19 +204,57 @@ World-leading authority on B2B product positioning, known for developing practic
 
 Collected:
 
-LinkedIn profile
-
-About section
-
-2 recent LinkedIn posts
-
-1 Positioning Show episode
+- LinkedIn profile
+- About section
+- 2 recent LinkedIn posts
+- 1 Positioning Show episode
 
 Collected on:
 
 11 June 2026
 
-### 7. Kevin Indig
+### 7. Ross Simmonds
+
+LinkedIn:
+
+[https://www.linkedin.com/in/rosssimmonds/](https://www.linkedin.com/in/rosssimmonds/)
+
+Youtube:
+
+[https://www.youtube.com/@RossSimmondsTV](https://www.youtube.com/@RossSimmondsTV)
+
+Focus:
+
+- Content marketing
+- Content distribution
+- B2B marketing
+- Demand generation
+- Content strategy
+- Personal branding
+- Owned media
+- Audience growth
+- Content repurposing
+- Content systems
+- AI in marketing
+- Thought leadership
+- Distribution-first marketing
+
+Reason selected:
+
+One of the strongest advocates for distribution-first marketing, Ross combines deep expertise in content strategy, audience building, and B2B growth with practical frameworks for maximizing content ROI. His work emphasizes that great content alone is not enough—systematic distribution, repurposing, owned media, and strategic amplification are the real competitive advantages for modern brands and creators.
+
+Collected:
+
+- LinkedIn profile
+- About section
+- 2 recent LinkedIn posts
+- 1 podcast / YouTube interview
+
+Collected on:
+
+12 June 2026
+
+### 8. Kevin Indig
 
 LinkedIn:
 
@@ -232,25 +266,16 @@ Website:
 
 Focus:
 
-Organic growth
-
-AI search
-
-SEO
-
-AI visibility
-
-Share of voice
-
-Thought leadership
-
-Brand reputation
-
-Content strategy
-
-Original research
-
-Growth systems
+- Organic growth
+- AI search
+- SEO
+- AI visibility
+- Share of voice
+- Thought leadership
+- Brand reputation
+- Content strategy
+- Original research
+- Growth systems
 
 Reason selected:
 
@@ -258,22 +283,55 @@ One of the leading thinkers on AI-native organic growth and search strategy, com
 
 Collected:
 
-LinkedIn profile
-
-About section
-
-2 recent LinkedIn posts
-
-1 Voices of Search podcast interview
+- LinkedIn profile
+- About section
+- 2 recent LinkedIn posts
+- 1 Voices of Search podcast interview
 
 Collected on:
 
 12 June 2026
 
-### 8. Devin Reed
+### 9. Kieran Flanagan
 
-- Focus: Content-led growth
-- Platform: LinkedIn
+LinkedIn:
+
+[https://www.linkedin.com/in/kieranjflanagan/](https://www.linkedin.com/in/kieranjflanagan/)
+
+Website:
+
+[https://www.kieranflanagan.io/](https://www.kieranflanagan.io/)
+
+Focus:
+
+- AI marketing
+- Agentic GTM
+- Prompt engineering
+- Context engineering
+- AI workflows
+- AI fluency
+- Creator-led growth
+- AI search
+- AI engine optimization
+- Marketing systems
+- Go-to-market strategy
+- Future of marketing
+- Thought leadership
+
+Reason selected:
+
+One of the leading thinkers on AI-native marketing and go-to-market transformation, combining operator experience from HubSpot and Zapier with practical frameworks around prompt engineering, AI workflows, creator-led growth, AI search, and the future of marketing teams. Kieran's content bridges strategy and execution, making advanced AI concepts highly actionable for modern marketers.
+
+Collected:
+
+- LinkedIn profile
+- About section
+- 2 recent LinkedIn posts
+- 2 podcast / YouTube interviews
+
+Collected on:
+
+12 June 2026
 
 ### 9. Jason Lemkin
 
