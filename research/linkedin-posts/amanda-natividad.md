@@ -1,6 +1,6 @@
 # Amanda Natividad
 
-Platform:
+## Linkedin:
 
 [https://www.linkedin.com/in/amandanat/](https://www.linkedin.com/in/amandanat/)
 
@@ -21,17 +21,11 @@ Amanda Natividad is a B2B marketing strategist and founder of Zero Click Marketi
 ## Target audience
 
 - B2B SaaS companies
-
 - Marketing leaders
-
 - Content marketers
-
 - Founders
-
 - SEO professionals
-
 - Brand strategists
-
 - Growth marketers
 
 ---
@@ -39,19 +33,12 @@ Amanda Natividad is a B2B marketing strategist and founder of Zero Click Marketi
 ## Content pillars
 
 - Zero-click marketing
-
 - AI visibility
-
 - Content marketing
-
 - Brand building
-
 - Thought leadership
-
 - SEO & AEO
-
 - AI search
-
 - Marketing strategy
 
 ---
@@ -59,17 +46,11 @@ Amanda Natividad is a B2B marketing strategist and founder of Zero Click Marketi
 ## Writing style
 
 - Educational
-
 - Research-backed
-
 - Practical
-
 - Calm and analytical
-
 - Data-driven
-
 - Easy to understand
-
 - Framework-focused
 
 ---
@@ -79,17 +60,11 @@ Amanda Natividad is a B2B marketing strategist and founder of Zero Click Marketi
 Frequently uses:
 
 - Statistics
-
 - Surprising research
-
 - Questions
-
 - Industry shifts
-
 - "If my CEO asked me..."
-
 - Contrarian insights
-
 - New frameworks
 
 ---
@@ -97,13 +72,9 @@ Frequently uses:
 ## CTA patterns
 
 - Read the full article
-
 - Listen to the podcast
-
 - Try the tool
-
 - Think differently
-
 - Learn the framework
 
 Very soft-sell and education-first.
@@ -139,17 +110,11 @@ Practical recommendations
 Patterns noticed:
 
 - Heavy use of original research
-
 - Focus on long-term brand building
-
 - Prioritizes expertise over hacks
-
 - Frequently references AI search evolution
-
 - Connects SEO with branding and authority
-
 - Explains concepts through practical frameworks
-
 - Promotes zero-click visibility over traffic obsession
 
 ---
@@ -157,11 +122,8 @@ Patterns noticed:
 ## Sources used
 
 - LinkedIn profile
-
 - About section
-
 - AI visibility post
-
 - Zero-click marketing post
-
 - Zero Click Marketing podcast
+

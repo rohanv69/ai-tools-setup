@@ -220,10 +220,55 @@ Collected on:
 
 11 June 2026
 
-### 7. Peep Laja
+### 7. Kevin Indig
 
-- Focus: Conversion & B2B marketing
-- Platform: LinkedIn
+LinkedIn:
+
+[https://www.linkedin.com/in/kevinindig/](https://www.linkedin.com/in/kevinindig/)
+
+Website:
+
+[https://www.kevin-indig.com/](https://www.kevin-indig.com/)
+
+Focus:
+
+Organic growth
+
+AI search
+
+SEO
+
+AI visibility
+
+Share of voice
+
+Thought leadership
+
+Brand reputation
+
+Content strategy
+
+Original research
+
+Growth systems
+
+Reason selected:
+
+One of the leading thinkers on AI-native organic growth and search strategy, combining deep technical SEO expertise with modern perspectives on AI visibility, brand reputation, share of voice, and proprietary content. Kevin's research-driven frameworks provide a bridge between traditional SEO and the future of LinkedIn-led authority building.
+
+Collected:
+
+LinkedIn profile
+
+About section
+
+2 recent LinkedIn posts
+
+1 Voices of Search podcast interview
+
+Collected on:
+
+12 June 2026
 
 ### 8. Devin Reed
 
