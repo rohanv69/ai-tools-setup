@@ -4,6 +4,7 @@ Objective
 
 This playbook combines research from ten experienced B2B SaaS marketers, founders, and content strategists into a practical framework for building authority, generating demand, and growing a founder's presence on LinkedIn. Rather than collecting isolated tips, it organizes proven ideas into a repeatable system covering positioning, audience research, content creation, distribution, engagement, and performance measurement. Where experts disagree, the playbook explains different viewpoints, the reasoning behind them, and the approach recommended based on the available evidence.
 
+---
 
 ## Who This Playbook Is For
 
@@ -16,6 +17,7 @@ This playbook is designed for:
 
 This playbook assumes the reader is willing to invest consistently in creating valuable content rather than relying on short-term growth hacks.
 
+---
 
 ## Success Metrics
 
@@ -32,6 +34,7 @@ Key metrics include:
 
 Likes and impressions are useful indicators but should be interpreted alongside business outcomes rather than treated as the primary objective.
 
+---
 
 ## Core Principles
 
@@ -118,6 +121,7 @@ Content strategy should always support business strategy.
 - Dave Gerhardt
 - Amanda Natividad
 
+---
 
 ## Positioning
 
@@ -217,6 +221,7 @@ Before publishing consistently, answer these questions:
 
 If these questions cannot be answered easily, revisit your positioning before increasing content output.
 
+---
 
 ## Audience Research
 
@@ -339,6 +344,7 @@ Before publishing consistently, make sure you can answer:
 
 Strong audience research leads to stronger content, higher engagement, and better long-term business results.
 
+---
 
 ## Content Pillars
 
@@ -464,6 +470,7 @@ Before planning your content calendar, make sure:
 
 Strong content pillars create consistency without making your content repetitive.
 
+---
 
 ## Writing High-Performing Posts
 
@@ -598,6 +605,7 @@ Before publishing, ask yourself:
 
 A high-performing post is one that strengthens your authority, helps your audience, and supports your long-term business goals—not just one that receives high engagement.
 
+---
 
 ## Distribution Strategy
 
@@ -709,6 +717,7 @@ Before considering a post "finished," ask:
 
 Publishing is only one part of content marketing. Consistent distribution and community engagement are what turn good content into long-term business results.
 
+---
 
 ## Community Engagement
 
@@ -820,6 +829,7 @@ Before ending each day, ask:
 
 Meaningful engagement strengthens trust, increases visibility, and creates long-term opportunities that publishing alone cannot achieve.
 
+---
 
 ## Measuring Performance
 
@@ -937,6 +947,7 @@ Every month, ask yourself:
 
 Data should guide future decisions, not simply report past performance.
 
+---
 
 ## Weekly Operating System
 
@@ -1049,6 +1060,7 @@ At the end of each week, confirm that you have:
 
 Small improvements made consistently produce stronger long-term results than occasional bursts of activity.
 
+---
 
 ## Recommended AI Tools
 
@@ -1150,6 +1162,7 @@ Do NOT rely on AI to:
 
 AI should improve efficiency while preserving authenticity and credibility.
 
+---
 
 ## Where Experts Disagree
 
@@ -1214,6 +1227,7 @@ I lean towards April Dunford's thinking.
 
 Choosing a niche is important, but without a distinctive point of view it becomes difficult to stand out. Strong positioning should combine topic expertise with a unique perspective.
 
+---
 
 ## What I Rejected and Why
 
@@ -1249,6 +1263,7 @@ Instead, I focused on business outcomes such as:
 
 High engagement does not necessarily translate into meaningful business impact. Content strategy should ultimately support business objectives rather than optimise for vanity metrics.
 
+---
 
 ## My Original Ideas
 
@@ -1304,6 +1319,7 @@ I believe this approach would improve consistency, especially for teams managing
 
 While several experts discuss writing quality, editing, and audience value, I did not find anyone recommending a structured quality review process before publishing. Adding this checkpoint could help maintain a higher editorial standard over time.
 
+---
 
 ## Weaknesses of This Playbook
 
@@ -1353,6 +1369,7 @@ Additional experimentation may be needed before applying every recommendation in
 
 Recognizing these limitations is important because content strategy should evolve alongside audience behaviour, business objectives, and platform changes. This playbook should be viewed as a practical starting point rather than a complete or permanent solution.
 
+---
 
 ## Who I Would NOT Recommend Following
 
@@ -1368,6 +1385,7 @@ This does not reduce the value of Kyle's work. Instead, it reflects the scope of
 
 For that reason, I would recommend following Kyle Poyar after building a solid content foundation rather than using him as a primary source for learning LinkedIn content strategy.
 
+---
 
 ## References
 
