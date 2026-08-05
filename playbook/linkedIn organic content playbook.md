@@ -940,13 +940,218 @@ Data should guide future decisions, not simply report past performance.
 
 ## Weekly Operating System
 
----
+Consistency is easier when content creation follows a structured workflow instead of relying on inspiration. A weekly operating system helps maintain quality while reducing the stress of deciding what to do each day.
 
-## 12. Recommended AI Tools
+### Monday: Research & Planning
 
----
+Start the week by gathering ideas and planning content.
 
-## 13. Where Experts Disagree
+Tasks:
+
+- Review industry news and trends.
+- Save interesting LinkedIn posts for inspiration.
+- Review customer conversations and frequently asked questions.
+- Brainstorm new content ideas.
+- Plan posts for the week.
+
+**Sources**
+
+- Justin Welsh
+- Dave Gerhardt
+- Ross Simmonds
+
+### Tuesday: Writing
+
+Focus on creating content rather than editing.
+
+Tasks:
+
+- Write first drafts.
+- Develop hooks.
+- Organize ideas clearly.
+- Add personal experiences and examples.
+
+Avoid editing while writing. Complete the first draft before making improvements.
+
+**Sources**
+
+- Jasmin Alic
+- Lara Acosta
+- Justin Welsh
+
+### Wednesday: Editing & Optimization
+
+Review every post before publishing.
+
+Checklist:
+
+- Improve clarity.
+- Remove unnecessary words.
+- Verify facts.
+- Check formatting.
+- Strengthen the hook.
+- Improve the CTA.
+
+The editing stage should make the writing clearer—not longer.
+
+**Sources**
+
+- Amanda Natividad
+- Dave Gerhardt
+
+### Thursday: Publish & Engage
+
+Publishing is only the beginning.
+
+Tasks:
+
+- Publish the scheduled post.
+- Respond to comments.
+- Engage with other creators.
+- Join relevant conversations.
+- Record audience feedback.
+
+Meaningful engagement increases both reach and relationships.
+
+**Sources**
+
+- Ross Simmonds
+- Justin Welsh
+
+### Friday: Review Performance
+
+Review the week's content to identify patterns.
+
+Questions:
+
+- Which posts performed best?
+- Which generated business conversations?
+- Which topics received the strongest engagement?
+- What should be repeated?
+- What should be improved?
+
+Document key learnings before planning the following week.
+
+**Sources**
+
+- Kyle Poyar
+- Amanda Natividad
+
+### Weekly Checklist
+
+At the end of each week, confirm that you have:
+
+- Planned next week's content.
+- Captured new ideas.
+- Responded to meaningful comments.
+- Reviewed content performance.
+- Identified one improvement to test next week.
+
+Small improvements made consistently produce stronger long-term results than occasional bursts of activity.
+
+
+## Recommended AI Tools
+
+AI should support strategic thinking rather than replace it. The most effective workflow combines AI for speed with human judgment for originality, accuracy, and decision-making.
+
+### Research
+
+Use AI to:
+
+- Summarize industry reports.
+- Understand unfamiliar topics.
+- Brainstorm content angles.
+- Identify questions your audience may be asking.
+
+Recommended tools:
+
+- Perplexity
+- ChatGPT
+- Claude
+
+### Content Planning
+
+Use AI to:
+
+- Generate content ideas.
+- Organize content pillars.
+- Build editorial calendars.
+- Expand rough notes into structured outlines.
+
+Recommended tools:
+
+- ChatGPT
+- Claude
+
+### Drafting
+
+AI can accelerate first drafts by helping structure ideas and improve clarity.
+
+However:
+
+- Avoid publishing AI output without editing.
+- Add personal experiences.
+- Add original opinions.
+- Remove repetitive phrasing.
+- Verify factual claims.
+
+Recommended tools:
+
+- Claude
+- ChatGPT
+
+### Editing
+
+Use AI as an editor rather than a writer.
+
+Helpful tasks include:
+
+- Grammar checks.
+- Simplifying complex sentences.
+- Improving flow.
+- Finding repetitive wording.
+
+The final editing pass should always be completed by a human.
+
+### Research Validation
+
+AI occasionally produces inaccurate or outdated information.
+
+Before publishing:
+
+- Verify statistics.
+- Check sources.
+- Confirm quotations.
+- Validate links.
+
+Never rely on AI as the only source of factual information.
+
+### AI Workflow Checklist
+
+Use AI to:
+
+✓ Research
+
+✓ Brainstorm
+
+✓ Organize
+
+✓ Edit
+
+Do NOT rely on AI to:
+
+✗ Replace original thinking
+
+✗ Invent experiences
+
+✗ Generate opinions
+
+✗ Publish content without review
+
+AI should improve efficiency while preserving authenticity and credibility.
+
+
+## Where Experts Disagree
 
 ---
 
