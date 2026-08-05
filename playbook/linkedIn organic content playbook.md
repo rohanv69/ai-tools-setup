@@ -823,9 +823,122 @@ Meaningful engagement strengthens trust, increases visibility, and creates long-
 
 ## Measuring Performance
 
----
+The purpose of measuring content performance is not to identify the most viral post, but to understand which content contributes to long-term business goals.
 
-## 11. Weekly Operating System
+Measure performance consistently and look for patterns over time rather than judging individual posts in isolation.
+
+### Step 1: Define Business KPIs
+
+Start by identifying what success means for your business.
+
+Examples include:
+
+- Qualified leads
+- Demo requests
+- Newsletter subscribers
+- Speaking opportunities
+- Partnership enquiries
+- Product signups
+- Brand awareness within your target market
+
+Every metric should connect back to one or more business objectives.
+
+**Sources**
+
+- Kyle Poyar
+- Dave Gerhardt
+
+### Step 2: Track Content Metrics
+
+Review the performance of every post using metrics such as:
+
+- Impressions
+- Reach
+- Engagement rate
+- Comments
+- Shares
+- Saves
+- Profile views
+- Follower growth
+- Click-through rate
+
+Instead of focusing on a single metric, evaluate the overall performance of the post.
+
+**Sources**
+
+- Amanda Natividad
+- Justin Welsh
+
+### Step 3: Identify Winning Patterns
+
+Look for trends across multiple posts rather than judging one viral or underperforming post.
+
+Questions to ask include:
+
+- Which hooks consistently attract attention?
+- Which topics generate the highest-quality discussions?
+- Which formats receive the most saves or shares?
+- Which posts lead to inbound opportunities?
+- What themes consistently outperform others?
+
+Use these insights to improve future content rather than repeating assumptions.
+
+**Sources**
+
+- Ross Simmonds
+- Kyle Poyar
+
+### Step 4: Review Performance Regularly
+
+Set aside time each week or month to evaluate your content.
+
+Review:
+
+- Top-performing posts
+- Lowest-performing posts
+- Audience feedback
+- Business outcomes
+- Content distribution effectiveness
+
+Treat every post as an experiment and use the results to refine your strategy.
+
+**Sources**
+
+- Amanda Natividad
+- Dave Gerhardt
+
+### Step 5: Optimize Based on Evidence
+
+Avoid making decisions based on a single post.
+
+Instead:
+
+- Double down on topics that consistently perform well.
+- Improve or retire content pillars that no longer support business goals.
+- Experiment with new formats while measuring results.
+- Continue testing different hooks, structures, and calls to action.
+
+Continuous improvement is more valuable than chasing one-time success.
+
+**Sources**
+
+- Kyle Poyar
+- Ross Simmonds
+
+### Performance Review Checklist
+
+Every month, ask yourself:
+
+- Which posts created meaningful business opportunities?
+- Which topics consistently performed well?
+- Which content attracted the right audience?
+- Which experiments succeeded?
+- What should be stopped, improved, or scaled next month?
+
+Data should guide future decisions, not simply report past performance.
+
+
+## Weekly Operating System
 
 ---
 
