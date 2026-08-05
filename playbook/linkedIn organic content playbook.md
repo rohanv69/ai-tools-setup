@@ -1153,22 +1153,279 @@ AI should improve efficiency while preserving authenticity and credibility.
 
 ## Where Experts Disagree
 
----
+No two experts approach LinkedIn content in exactly the same way. While researching these ten creators, I noticed several recurring disagreements. Rather than trying to combine every opinion, I chose the approaches that I believe are the most practical for long-term B2B SaaS growth.
 
-## 14. What I Rejected and Why
+### 1. Content Creation vs Content Distribution
 
----
+**Justin Welsh**
 
-## 15. My Original Ideas
+Justin emphasizes building a consistent writing habit. His advice focuses on publishing regularly, improving through repetition, and developing authority through consistent output.
 
----
+**Ross Simmonds**
 
-## 16. Weaknesses of This Playbook
+Ross argues that most companies spend too much time creating content and too little time distributing it. According to him, every piece of content should be intentionally repurposed and promoted across multiple channels.
 
----
+**My conclusion**
 
-## 17. Who I Would NOT Recommend Following
+I agree more with Ross Simmonds.
 
----
+Creating excellent content is important, but even the best content has limited impact if nobody sees it. A sustainable strategy should treat creation and distribution as equally important parts of the content lifecycle.
 
-## 18. References
+**Sources**
+
+Justin Welsh
+Ross Simmonds
+
+### 2. Personal Stories vs Research-Driven Content
+
+**Dave Gerhardt**
+
+Dave believes memorable stories create trust. His content often begins with personal experiences before introducing a business lesson.
+
+**Amanda Natividad**
+
+Amanda relies more heavily on research, original data, and educational frameworks. Her content focuses on helping readers understand industry changes through evidence.
+
+**My conclusion**
+
+I believe both approaches have value.
+
+However, for founders building authority, I would prioritise personal experience supported by evidence. Stories create emotional connection, while research strengthens credibility.
+
+**Sources**
+
+Dave Gerhardt
+
+Amanda Natividad
+
+### 3. Niche Positioning vs Market Positioning
+
+**Justin Welsh & Lara Acosta**
+
+Both recommend becoming known for a small number of consistent topics so audiences immediately understand your expertise.
+
+**April Dunford**
+
+April argues that positioning is less about choosing topics and more about owning a clear point of view within a market.
+
+**My conclusion**
+
+I lean towards April Dunford's thinking.
+
+Choosing a niche is important, but without a distinctive point of view it becomes difficult to stand out. Strong positioning should combine topic expertise with a unique perspective.
+
+
+## What I Rejected and Why
+
+While researching these experts, I came across several recommendations that I deliberately chose not to include in this playbook. They may be effective in certain situations, but I don't believe they are universally applicable for B2B SaaS founders building long-term authority.
+
+### 1. Prioritising Posting Frequency Over Content Quality
+
+Some creators strongly encourage publishing every day to accelerate audience growth.
+
+I chose not to make daily posting a recommendation because consistency only creates value when the content itself is useful. For founders balancing product, customers, fundraising, and hiring, maintaining a sustainable publishing schedule is more realistic than chasing an aggressive posting cadence.
+
+Instead, this playbook prioritises publishing consistently at a pace that allows quality and original thinking to remain high.
+
+**Reason for rejection:**
+
+I believe long-term trust is built through consistently valuable content rather than simply increasing publishing frequency.
+
+### 2. Measuring Success Primarily Through Engagement Metrics
+
+Several sources discuss impressions, likes, comments, and follower growth as indicators of success.
+
+While these metrics are useful, I intentionally avoided making them the primary objective of this playbook.
+
+Instead, I focused on business outcomes such as:
+
+- Qualified conversations
+- Newsletter subscribers
+- Partnership opportunities
+- Sales conversations
+- Brand authority
+
+**Reason for rejection:**
+
+High engagement does not necessarily translate into meaningful business impact. Content strategy should ultimately support business objectives rather than optimise for vanity metrics.
+
+
+## My Original Ideas
+
+While researching these experts, I noticed that most of the advice focuses on creating, publishing, and distributing content. However, very little attention is given to systematically using audience feedback to improve future content.
+
+### Idea 1: Build a Content Feedback Loop
+
+Instead of treating each LinkedIn post as a standalone piece of content, treat every post as research for the next one.
+
+The workflow would look like this:
+
+Research
+↓
+Create Content
+↓
+Publish
+↓
+Collect Comments & Questions
+↓
+Identify Patterns
+↓
+Create New Content
+↓
+Repeat
+
+Questions, objections, and discussions in the comments often reveal what the audience genuinely wants to learn next. Rather than brainstorming every post from scratch, these conversations become an ongoing source of validated content ideas.
+
+I believe this approach has three advantages:
+
+- Content becomes increasingly aligned with audience needs.
+- Writers spend less time searching for new ideas.
+- The strategy continuously improves through real audience feedback instead of assumptions.
+
+Although several experts encourage engaging with comments, I did not find anyone describing this as a structured operating system. I believe formalising this feedback loop makes the overall content strategy more sustainable and more responsive to audience needs.
+
+### Idea 2: Introduce a Content Quality Score Before Publishing
+
+Before publishing any LinkedIn post, evaluate it using a simple scoring system. Instead of relying on intuition, score the content against a few consistent criteria.
+
+Example:
+
+| Criteria | Score (1–5) |
+|----------|-------------|
+| Relevance to the target audience |   |
+| Original insight or experience |   |
+| Clarity and readability |   |
+| Business relevance |   |
+| Likelihood of generating meaningful discussion |   |
+
+If a post scores poorly in one or more areas, revise it before publishing rather than posting it as-is.
+
+I believe this approach would improve consistency, especially for teams managing content across multiple founders or brands. It also encourages writers to focus on quality instead of publishing simply to maintain a schedule.
+
+While several experts discuss writing quality, editing, and audience value, I did not find anyone recommending a structured quality review process before publishing. Adding this checkpoint could help maintain a higher editorial standard over time.
+
+
+## Weaknesses of This Playbook
+
+No playbook is universally applicable. While this framework combines research from experienced marketers and content strategists, it also has several limitations that should be acknowledged.
+
+### 1. It prioritizes long-term growth over short-term results
+
+This playbook focuses on building authority and trust through consistent, high-quality content. Founders or companies looking for immediate lead generation or rapid follower growth may find the approach slower than more aggressive growth tactics.
+
+### 2. It is primarily designed for B2B SaaS founders
+
+Many recommendations are based on founder-led marketing within B2B SaaS.
+
+Although the underlying principles may apply to other industries, businesses in ecommerce, entertainment, consumer brands, or creator-focused businesses may need to adapt the framework to fit their audiences and goals.
+
+### 3. Platform behaviour changes over time
+
+LinkedIn's algorithm, user behaviour, and content formats continue to evolve.
+
+Strategies that perform well today may become less effective in the future.
+
+For that reason, this playbook should be treated as a living document that is reviewed and updated regularly rather than a fixed set of rules.
+
+### 4. Individual experience influences recommendations
+
+Many of the experts included in this research built their audiences under different circumstances.
+
+Their advice reflects their own industries, audiences, business models, and experiences.
+
+While common patterns emerged across multiple experts, not every recommendation will produce identical results for every creator.
+
+### 5. Originality remains difficult to standardize
+
+This playbook provides systems and frameworks for creating content, but originality ultimately depends on the writer.
+
+No framework can replace genuine experience, critical thinking, or unique perspectives.
+
+These remain the most important factors in producing memorable content.
+
+### 6. Limited evidence across different company stages
+
+Most examples in this research come from experienced founders, marketers, and established creators.
+
+There is less evidence showing how these recommendations perform for founders with very small audiences, newly launched startups, or businesses operating in highly regulated industries.
+
+Additional experimentation may be needed before applying every recommendation in those situations.
+
+Recognizing these limitations is important because content strategy should evolve alongside audience behaviour, business objectives, and platform changes. This playbook should be viewed as a practical starting point rather than a complete or permanent solution.
+
+
+## Who I Would NOT Recommend Following
+
+One of the biggest takeaways from this research was that every expert offered valuable insights from their own experience and area of expertise. Because of that, I would not say that any of them are "bad" creators or should be avoided entirely.
+
+However, if I had to choose someone whose advice I would rely on less for the specific objective of this playbook, it would be **Kyle Poyar**.
+
+Kyle's work is extremely valuable for SaaS growth, product-led growth, pricing, metrics, and business strategy. However, much of his content focuses on growth frameworks and operational decision-making rather than day-to-day LinkedIn content strategy or personal brand building.
+
+For someone building a LinkedIn content system, creators such as Justin Welsh, Ross Simmonds, Dave Gerhardt, Lara Acosta, and Jasmin Alic provide more directly applicable guidance because their work focuses heavily on content creation, audience building, and distribution.
+
+This does not reduce the value of Kyle's work. Instead, it reflects the scope of this playbook. His expertise becomes significantly more valuable once content begins contributing to broader business growth and performance measurement.
+
+For that reason, I would recommend following Kyle Poyar after building a solid content foundation rather than using him as a primary source for learning LinkedIn content strategy.
+
+
+## References
+
+This playbook was developed by analysing content from ten experienced founders, marketers, and growth strategists. Research included LinkedIn posts, articles, podcasts, newsletters, YouTube interviews, and publicly available educational resources.
+
+### Experts Researched
+
+1. Justin Welsh
+   - LinkedIn posts
+   - Newsletter
+   - Interviews
+
+2. Dave Gerhardt
+   - LinkedIn posts
+   - Exit Five Podcast
+   - Marketing content
+
+3. Ross Simmonds
+   - LinkedIn posts
+   - Foundation Marketing articles
+   - Interviews
+
+4. Lara Acosta
+   - LinkedIn posts
+   - Creator content
+   - Interviews
+
+5. Amanda Natividad
+   - SparkToro articles
+   - LinkedIn posts
+   - Zero-click marketing resources
+
+6. April Dunford
+   - Positioning articles
+   - Interviews
+   - Book excerpts
+
+7. Jasmin Alic
+   - LinkedIn posts
+   - Personal branding content
+
+8. Kevin Indig
+   - SEO and AI search articles
+   - Newsletter
+   - Interviews
+
+9. Kieran Flanagan
+   - Marketing podcasts
+   - AI marketing content
+   - LinkedIn posts
+
+10. Kyle Poyar
+    - Growth frameworks
+    - SaaS articles
+    - LinkedIn posts
+
+### Research Method
+
+This playbook is based on qualitative research rather than a single source. Recommendations were included only after comparing ideas across multiple experts. Where experts disagreed, the differences were documented and evaluated before forming a recommendation.
+
+The objective was not to copy any individual creator's framework but to synthesize recurring principles into a practical operating playbook for founder-led LinkedIn content strategy.
