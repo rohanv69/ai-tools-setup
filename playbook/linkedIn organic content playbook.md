@@ -6,7 +6,7 @@ This playbook combines research from ten experienced B2B SaaS marketers, founder
 
 ---
 
-## Who This Playbook Is For
+## 1. Who This Playbook Is For
 
 This playbook is designed for:
 
@@ -19,7 +19,7 @@ This playbook assumes the reader is willing to invest consistently in creating v
 
 ---
 
-## Success Metrics
+## 2. Success Metrics
 
 The primary goal of LinkedIn content is not to maximize vanity metrics but to build authority that contributes to business growth.
 
@@ -36,7 +36,7 @@ Likes and impressions are useful indicators but should be interpreted alongside 
 
 ---
 
-## Core Principles
+## 3. Core Principles
 
 The following principles consistently appeared across the research. They form the foundation of every recommendation in this playbook.
 
@@ -123,7 +123,7 @@ Content strategy should always support business strategy.
 
 ---
 
-## Positioning
+## 4. Positioning
 
 Before publishing content, define the position you want to own in your audience's mind.
 
@@ -223,7 +223,7 @@ If these questions cannot be answered easily, revisit your positioning before in
 
 ---
 
-## Audience Research
+## 5. Audience Research
 
 Creating valuable content starts with understanding your audience. Instead of guessing what people want to read, build your content around their real questions, frustrations, and goals.
 
@@ -346,7 +346,7 @@ Strong audience research leads to stronger content, higher engagement, and bette
 
 ---
 
-## Content Pillars
+## 6. Content Pillars
 
 Content pillars are the core themes around which all of your content is created. They provide structure, ensure consistency, and make it easier to generate ideas without starting from scratch every time.
 
@@ -472,7 +472,7 @@ Strong content pillars create consistency without making your content repetitive
 
 ---
 
-## Writing High-Performing Posts
+## 7. Writing High-Performing Posts
 
 A successful LinkedIn post combines valuable insights with clear writing, strong structure, and a unique perspective. The goal is not to attract attention for a single post but to consistently provide value that builds long-term credibility.
 
@@ -607,7 +607,7 @@ A high-performing post is one that strengthens your authority, helps your audien
 
 ---
 
-## Distribution Strategy
+## 8. Distribution Strategy
 
 Publishing a post is only the beginning. High-quality content creates value only when it reaches the right audience. Instead of relying solely on LinkedIn's algorithm, actively distribute your content through multiple channels and conversations.
 
@@ -719,7 +719,7 @@ Publishing is only one part of content marketing. Consistent distribution and co
 
 ---
 
-## Community Engagement
+## 9. Community Engagement
 
 Publishing content is only one part of building a successful LinkedIn presence. Long-term growth comes from consistently participating in conversations and building genuine relationships within your industry.
 
@@ -831,7 +831,7 @@ Meaningful engagement strengthens trust, increases visibility, and creates long-
 
 ---
 
-## Measuring Performance
+## 10. Measuring Performance
 
 The purpose of measuring content performance is not to identify the most viral post, but to understand which content contributes to long-term business goals.
 
@@ -949,7 +949,7 @@ Data should guide future decisions, not simply report past performance.
 
 ---
 
-## Weekly Operating System
+## 11. Weekly Operating System
 
 Consistency is easier when content creation follows a structured workflow instead of relying on inspiration. A weekly operating system helps maintain quality while reducing the stress of deciding what to do each day.
 
@@ -1062,7 +1062,7 @@ Small improvements made consistently produce stronger long-term results than occ
 
 ---
 
-## Recommended AI Tools
+## 12. Recommended AI Tools
 
 AI should support strategic thinking rather than replace it. The most effective workflow combines AI for speed with human judgment for originality, accuracy, and decision-making.
 
@@ -1164,7 +1164,7 @@ AI should improve efficiency while preserving authenticity and credibility.
 
 ---
 
-## Where Experts Disagree
+## 13. Where Experts Disagree
 
 No two experts approach LinkedIn content in exactly the same way. While researching these ten creators, I noticed several recurring disagreements. Rather than trying to combine every opinion, I chose the approaches that I believe are the most practical for long-term B2B SaaS growth.
 
@@ -1229,7 +1229,7 @@ Choosing a niche is important, but without a distinctive point of view it become
 
 ---
 
-## What I Rejected and Why
+## 14. What I Rejected and Why
 
 While researching these experts, I came across several recommendations that I deliberately chose not to include in this playbook. They may be effective in certain situations, but I don't believe they are universally applicable for B2B SaaS founders building long-term authority.
 
@@ -1265,7 +1265,7 @@ High engagement does not necessarily translate into meaningful business impact. 
 
 ---
 
-## My Original Ideas
+## 15. My Original Ideas
 
 While researching these experts, I noticed that most of the advice focuses on creating, publishing, and distributing content. However, very little attention is given to systematically using audience feedback to improve future content.
 
@@ -1321,7 +1321,7 @@ While several experts discuss writing quality, editing, and audience value, I di
 
 ---
 
-## Weaknesses of This Playbook
+## 16. Weaknesses of This Playbook
 
 No playbook is universally applicable. While this framework combines research from experienced marketers and content strategists, it also has several limitations that should be acknowledged.
 
@@ -1371,7 +1371,7 @@ Recognizing these limitations is important because content strategy should evolv
 
 ---
 
-## Who I Would NOT Recommend Following
+## 17. Who I Would NOT Recommend Following
 
 One of the biggest takeaways from this research was that every expert offered valuable insights from their own experience and area of expertise. Because of that, I would not say that any of them are "bad" creators or should be avoided entirely.
 
@@ -1387,7 +1387,7 @@ For that reason, I would recommend following Kyle Poyar after building a solid c
 
 ---
 
-## References
+## 18. References
 
 This playbook was developed by analysing content from ten experienced founders, marketers, and growth strategists. Research included LinkedIn posts, articles, podcasts, newsletters, YouTube interviews, and publicly available educational resources.
 
