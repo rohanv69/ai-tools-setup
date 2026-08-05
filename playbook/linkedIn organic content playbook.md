@@ -6,6 +6,29 @@ This playbook combines research from ten experienced B2B SaaS marketers, founder
 
 ---
 
+## Table of Contents
+
+1. [Who This Playbook Is For](#1-who-this-playbook-is-for)
+2. [Success Metrics](#2-success-metrics)
+3. [Core Principles](#3-core-principles)
+4. [Positioning](#4-positioning)
+5. [Audience Research](#5-audience-research)
+6. [Content Pillars](#6-content-pillars)
+7. [Writing High-Performing Posts](#7-writing-high-performing-posts)
+8. [Distribution Strategy](#8-distribution-strategy)
+9. [Community Engagement](#9-community-engagement)
+10. [Measuring Performance](#10-measuring-performance)
+11. [Weekly Operating System](#11-weekly-operating-system)
+12. [Recommended AI Tools](#12-recommended-ai-tools)
+13. [Where Experts Disagree](#13-where-experts-disagree)
+14. [What I Rejected and Why](#14-what-i-rejected-and-why)
+15. [My Original Ideas](#15-my-original-ideas)
+16. [Weaknesses of This Playbook](#16-weaknesses-of-this-playbook)
+17. [Who I Would NOT Recommend Following](#17-who-i-would-not-recommend-following)
+18. [References](#18-references)
+
+---
+
 ## 1. Who This Playbook Is For
 
 This playbook is designed for:
