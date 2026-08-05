@@ -1,4 +1,4 @@
-## LinkedIn Organic Content Playbook for B2B SaaS Founders##
+## LinkedIn Organic Content Playbook for B2B SaaS Founders
 
 Objective
 
