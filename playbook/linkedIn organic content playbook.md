@@ -1,7 +1,5 @@
 ## LinkedIn Organic Content Playbook for B2B SaaS Founders
 
-This playbook was developed by synthesizing research from ten experienced B2B marketers, founders, and content strategists. It is intended to serve as a practical operating guide rather than a collection of individual opinions.
-
 Objective
 
 This playbook combines research from ten experienced B2B SaaS marketers, founders, and content strategists into a practical framework for building authority, generating demand, and growing a founder's presence on LinkedIn. Rather than collecting isolated tips, it organizes proven ideas into a repeatable system covering positioning, audience research, content creation, distribution, engagement, and performance measurement. Where experts disagree, the playbook explains different viewpoints, the reasoning behind them, and the approach recommended based on the available evidence.
